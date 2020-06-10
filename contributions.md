@@ -40,3 +40,4 @@ following the same syntax.
 |10|[Godot PR #37589](https://github.com/godotengine/godot/pull/37589)| Project Documentation| Updated documentation to make reference of a relevant function. |
 |11/12|[Godot PR #38328](https://github.com/godotengine/godot/pull/38328)| Project Code | Made two functions return the values they were meant to return |
 | 15 | [Cataclysm-DDA PR #40672](https://github.com/CleverRaven/Cataclysm-DDA/pull/40672) | Project Code | Made the length and weight of a jackhammer more realistic |
+| ~0 | [Cataclysm-DDA PR #41222](https://github.com/CleverRaven/Cataclysm-DDA/pull/41222) | Project Code | Fixed segmentation fault crash upon examining nuclear powered automobiles |
